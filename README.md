@@ -98,4 +98,4 @@ This project expanded my experience working with relational databases and deskto
 **Zachary Bowman**
 
 - GitHub: https://github.com/ZakB255
-- LinkedIn: *(Add your LinkedIn profile URL)*
+- LinkedIn: *www.linkedin.com/in/zak-bowman-b1706b352*
